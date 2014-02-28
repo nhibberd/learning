@@ -1,12 +1,33 @@
-questions
-========
+Questions
+=========
 
-Todo
+First
 ```
-Problem 1: etc
+Hello world
+I/O
+```
+
+List
+```
+foldLeft
+foldRight
+map
+filter
+flatten
+flatMap
+find
+reverse
+sequence
+```
+
+Third
 ```
 Quick-sort
+Option / Maybe
+```
 
-Linked-list
-
+Further
+```
 List-zipper
+Json Parser
+```
